@@ -4,7 +4,7 @@
 
 2. Import necessary libraries such as pandas, numpy, sklearn, and os.
 
-3. Load the training and test data from CSV files stored in Google Drive.
+3. Load the training and test data from CSV files.
 
 4. Preprocess the training and test data by splitting the Id and x columns respectively into ChemID and AssayID columns.
 
